@@ -1,0 +1,5 @@
+1. Ecommerce Cart Component: This refers to a user interface (UI) component that is designed to display and manage the shopping cart functionality of an e-commerce website. Typically, it would include features like adding/removing items, updating quantities, displaying the total price, and possibly providing checkout options.
+
+2. Simmer Load: "Simmer load" likely refers to simulating or mimicking loading or processing times within the cart component. In the context of web development, simulating loading or processing is often done to demonstrate how the UI behaves when it's waiting for data from a server or processing user actions. It's a technique used for testing and user experience design.
+
+3. React: React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the UI in response to data changes, user interactions, or other events.

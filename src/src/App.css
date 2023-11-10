@@ -1,0 +1,33 @@
+.card-image {
+  max-height: 250px;
+  width: 100%;
+}
+
+.card-product-name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-qty-button {
+  gap: 20px;
+  display: flex;
+  margin-top: 9px;
+}
+
+.add-to-card {
+  height: 40px;
+  width: 100%;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0px 0px 4px 1px #cfcfcf;
+  background-color: #dd0000;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+}
+
+img {
+  vertical-align: middle;
+  border: 0px;
+}
